@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Scaner QR</string>
+    <string name="qr_scan_code">string</string>
+    <string name="nama">string</string>
+    <string name="kelas">string</string>
+    <string name="TI_21_C_2">string</string>
+    <string name="ti_21_c_2">string</string>
+    <string name="nim">string</string>
+    <string name="_312110147">string</string>
+    <string name="M_A_Pratama" />
+    <string name="qr_scan_code1">QR scan Code</string>
+    <string name="nama1">nama</string>
+    <string name="m_a_pratama2">M A Pratama</string>
+    <string name="kelas1">kelas</string>
+    <string name="ti_21_c_21">TI 21 C 2</string>
+    <string name="nim1">nim</string>
+    <string name="_3121101471">312110147</string>
+</resources>
